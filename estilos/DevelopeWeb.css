@@ -26,6 +26,10 @@ body{
 .imagen{
     filter: brightness(1.1);
     mix-blend-mode: multiply;
+    position: relative;
+    top: 10px;
+    right: 20px;
+    z-index: 1;
 }
 .titulo {
     font-size: 100px;
@@ -48,4 +52,14 @@ button {
     height: 50px;
     border-radius: 10px;
     font-size: 20px;
+    background-color: bisque;
+}
+buttoN:hover{
+    background-color: rgb(0, 81, 100, 0.10 );
+    text-decoration: underline;
+
+}
+button a{
+    color: black;
+    text-decoration: none};
 }
