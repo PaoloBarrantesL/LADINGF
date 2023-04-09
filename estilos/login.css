@@ -1,0 +1,24 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Alkatra', cursive;
+    font-family: 'Bebas Neue', cursive;
+}
+body{
+    height:  100%;
+    background-color:  rgba(180, 138, 140 ,138);
+    
+}
+.contenedor{
+    width: 100%;
+    height: 100vh;
+    dispLay: flex;
+    aLign-items: center;
+    justify-content: center;
+}
+
+
+
+.container-lg{
+
+}
